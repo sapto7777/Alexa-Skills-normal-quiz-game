@@ -6,8 +6,12 @@ A simple quiz game where alexa will just ask you a series of questions on the ba
 Intent Schema:
 
 {
-  "intents": [
+
+  "intents": 
+  [
+  
     {
+    
       "slots": [
       
         {
